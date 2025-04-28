@@ -84,7 +84,7 @@ cd multilingual_voice_reporter
 
 ### 4. Run the Application Locally
  ```bash
- streamlit run streamlit_voice_reporter_final.py
+ streamlit run app/streamlit_voice_reporter_final.py
  ```
 
 ### 5. Deploying to Streamlit Cloud
