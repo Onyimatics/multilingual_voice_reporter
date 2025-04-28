@@ -1,6 +1,7 @@
 # MidlandsBridge Multilingual Voice Reporter
 
 [![Azure](https://img.shields.io/badge/Built%20with-Azure-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit%20App-Running-green?logo=streamlit)](https://streamlit.io/)
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > **Seamless voice reporting for everyone — powered by Microsoft Azure**
