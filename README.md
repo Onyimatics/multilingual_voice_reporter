@@ -43,6 +43,17 @@ This project integrates several Microsoft Azure services:
 
 ---
 
+## 🌐 Live Demo
+
+Check out the app live on Streamlit Cloud:  
+[**MidlandsBridge Multilingual Voice Reporter — Live Demo**](https://onyimatics-multilingual-voic-appstreamlit-voice-reporter-gewc4u.streamlit.app/)
+
+<p align="center">
+  <img src="demo_screenshot.png" alt="MidlandsBridge Demo Screenshot" width="600"/>
+</p>
+
+---
+
 ## 🛠 How to Run
 
 ### 1. Clone the Repository
